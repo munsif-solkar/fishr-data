@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Indian Mackerel (Bangda)",
+    "category": "fish",
+    "sizes": ["8/10", "15/20"],
+    "unit": "pieces per kg",
+    "description": "Locally called Bangda, this oily fish is highly popular in South and Southeast Asian export markets. Known for its firm flesh and rich flavor.",
+    "seasonality": "Sept - May",
+    "availability": "High",
+    "image": "indianMackerel.jpg",
+    "price": "Market rates apply"
+  },
+  {
+    "id": 2,
+    "name": "Ribbon Fish",
+    "category": "fish",
+    "sizes": ["200g-500g", "500g-1kg", "1kg+"],
+    "unit": "weight range",
+    "description": "Long, silver, ribbon-like fish with a shiny metallic sheen. Popular in Asian seafood markets for its firm texture and mild flavor, often exported in frozen form.",
+    "seasonality": "Sept - Feb",
+    "availability": "High",
+    "image": "ribbonFish.jpg",
+    "price": "Market rates apply"
+  },
+  {
+    "id": 3,
+    "name": "Pomfret (Paplet)",
+    "category": "fish",
+    "sizes": ["Small", "Medium", "Super"],
+    "unit": "size grade",
+    "description": "Known locally as Paplet, this premium white-fleshed fish is available in White and Black variety",
+    "seasonality": "Oct - Apr",
+    "availability": "Medium",
+    "image": "pomfretWhite.jpg",
+    "price": "Market rates apply"
+  },
+  {
+    "id": 4,
+    "name": "Pomfret Black (Sarga)",
+    "category": "fish",
+    "sizes": ["Small", "Medium", "Super"],
+    "unit": "weight range",
+    "description": "A premium table fish prized for its delicate, mild flavor and soft texture. Black pomfret is highly sought after in both local and export markets, perfect for frying, grilling, or steaming.",
+    "seasonality": "Sept - May",
+    "availability": "High",
+    "image": "pomfretBlack.jpg",
+    "price": "Market rates apply"
+  },
+  {
+    "id": 5,
+    "name": "Sardines (Tarli)",
+    "category": "fish",
+    "sizes": ["50g-100g", "100g-150g", "150g+"],
+    "unit": "weight range",
+    "description": "Small oily fish rich in omega-3 fatty acids, known for its strong flavor. Commonly consumed fresh, dried, or canned, and a staple in many coastal diets.",
+    "seasonality": "Jan - May",
+    "availability": "High",
+    "image": "sardine.jpg",
+    "price": "Market rates apply"
+  },
+  {
+    "id": 6,
+    "name": "Kingfish (Seer / Surmai)",
+    "category": "fish",
+    "sizes": ["1-9kg"],
+    "unit": "weight range",
+    "description": "Large predatory fish known for its lean, firm meat. Locally called Surmai, it is popular for steaks in both domestic and international cuisines.",
+    "seasonality": "Sept - Mar",
+    "availability": "Low",
+    "image": "surmai.jpg",
+    "price": "Market rates apply"
+  },
+  {
+    "id": 7,
+    "name": "Jacket Fish (Leather Jacket)",
+    "category": "fish",
+    "sizes": ["300g-500g", "500g-1kg", "1kg+"],
+    "unit": "weight range",
+    "description": "A firm-fleshed fish with tough, leathery skin that is easily removed before cooking. Known for its sweet, mild flavor and versatility in frying, grilling, or curries.",
+    "seasonality": "All year",
+    "availability": "Medium",
+    "image": "jacketFish.jpg",
+    "price": "Market rates apply"
+  },
+  {
+    "id": 8,
+    "name": "Squid (Loligo)",
+    "category": "cephalopod",
+    "sizes": ["10", "20", "30", "Baby"],
+    "unit": "pieces per kg",
+    "description": "Locally known as \"Bhoothai Bondas\" or \"Bondas,\" these needle squids are tender and sweet in flavor, ideal for grilling and frying.",
+    "seasonality": "Aug - Apr",
+    "availability": "Medium",
+    "image": "loligoSquid.jpg",
+    "price": "Market rates apply"
+  },
+  {
+    "id": 9,
+    "name": "White shrimp (Safed Jhinga)",
+    "category": "crustacean",
+    "sizes": ["20/30"],
+    "unit": "pieces per kg",
+    "description": "White Shrimp (Penaeus indicus) — Mild-flavored prawn with pale shell, popular for its tender, juicy meat.",
+    "seasonality": "Aug - Dec",
+    "availability": "Medium",
+    "image": "whiteShrimp.jpg",
+    "price": "Market rates apply"
+  },
+  {
+    "id": 10,
+    "name": "Tiger shrimp (Bagda)",
+    "category": "crustacean",
+    "sizes": ["20/30"],
+    "unit": "pieces per kg",
+    "description": "Tiger Shrimp (Penaeus monodon) — Large prawn with dark tiger-like stripes, valued for its sweet, firm meat.",
+    "seasonality": "Aug - Dec",
+    "availability": "Medium",
+    "image": "tigerShrimp.jpg",
+    "price": "Market rates apply"
+  }
+]
