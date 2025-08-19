@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "name": "Ribbonn Fish",
+    "name": "Ribbon Fish",
     "category": "fish",
     "sizes": ["200g-500g", "500g-1kg", "1kg+"],
     "unit": "weight range",
