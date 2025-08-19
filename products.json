@@ -8,7 +8,7 @@
     "description": "Locally called Bangda, this oily fish is highly popular in South and Southeast Asian export markets. Known for its firm flesh and rich flavor.",
     "seasonality": "Sept - May",
     "availability": "High",
-    "image": "indianMackerel.jpg",
+    "image": "https://github.com/munsif-solkar/fishr-data/blob/main/images/indian-mackerel.jpg?raw=true",
     "price": "Market rates apply"
   },
   {
@@ -20,7 +20,7 @@
     "description": "Long, silver, ribbon-like fish with a shiny metallic sheen. Popular in Asian seafood markets for its firm texture and mild flavor, often exported in frozen form.",
     "seasonality": "Sept - Feb",
     "availability": "High",
-    "image": "ribbonFish.jpg",
+    "image": "https://github.com/munsif-solkar/fishr-data/blob/main/images/ribbon-fish.jpg?raw=true",
     "price": "Market rates apply"
   },
   {
@@ -32,7 +32,7 @@
     "description": "Known locally as Paplet, this premium white-fleshed fish is available in White and Black variety",
     "seasonality": "Oct - Apr",
     "availability": "Medium",
-    "image": "pomfretWhite.jpg",
+    "image": "https://github.com/munsif-solkar/fishr-data/blob/main/images/pomfret-white.jpg?raw=true",
     "price": "Market rates apply"
   },
   {
@@ -44,7 +44,7 @@
     "description": "A premium table fish prized for its delicate, mild flavor and soft texture. Black pomfret is highly sought after in both local and export markets, perfect for frying, grilling, or steaming.",
     "seasonality": "Sept - May",
     "availability": "High",
-    "image": "pomfretBlack.jpg",
+    "image": "https://github.com/munsif-solkar/fishr-data/blob/main/images/pomfret-black.jpg?raw=true",
     "price": "Market rates apply"
   },
   {
@@ -56,7 +56,7 @@
     "description": "Small oily fish rich in omega-3 fatty acids, known for its strong flavor. Commonly consumed fresh, dried, or canned, and a staple in many coastal diets.",
     "seasonality": "Jan - May",
     "availability": "High",
-    "image": "sardine.jpg",
+    "image": "https://github.com/munsif-solkar/fishr-data/blob/main/images/sardine.jpg?raw=true",
     "price": "Market rates apply"
   },
   {
@@ -68,7 +68,7 @@
     "description": "Large predatory fish known for its lean, firm meat. Locally called Surmai, it is popular for steaks in both domestic and international cuisines.",
     "seasonality": "Sept - Mar",
     "availability": "Low",
-    "image": "surmai.jpg",
+    "image": "https://github.com/munsif-solkar/fishr-data/blob/main/images/surmai.jpg?raw=true",
     "price": "Market rates apply"
   },
   {
@@ -80,7 +80,7 @@
     "description": "A firm-fleshed fish with tough, leathery skin that is easily removed before cooking. Known for its sweet, mild flavor and versatility in frying, grilling, or curries.",
     "seasonality": "All year",
     "availability": "Medium",
-    "image": "jacketFish.jpg",
+    "image": "https://github.com/munsif-solkar/fishr-data/blob/main/images/jacket-fish.jpg?raw=true",
     "price": "Market rates apply"
   },
   {
@@ -92,7 +92,7 @@
     "description": "Locally known as \"Bhoothai Bondas\" or \"Bondas,\" these needle squids are tender and sweet in flavor, ideal for grilling and frying.",
     "seasonality": "Aug - Apr",
     "availability": "Medium",
-    "image": "loligoSquid.jpg",
+    "image": "https://github.com/munsif-solkar/fishr-data/blob/main/images/loligo-squid.jpg?raw=true",
     "price": "Market rates apply"
   },
   {
@@ -104,7 +104,7 @@
     "description": "White Shrimp (Penaeus indicus) — Mild-flavored prawn with pale shell, popular for its tender, juicy meat.",
     "seasonality": "Aug - Dec",
     "availability": "Medium",
-    "image": "whiteShrimp.jpg",
+    "image": "https://github.com/munsif-solkar/fishr-data/blob/main/images/white-shrimp.jpg?raw=true",
     "price": "Market rates apply"
   },
   {
@@ -116,7 +116,7 @@
     "description": "Tiger Shrimp (Penaeus monodon) — Large prawn with dark tiger-like stripes, valued for its sweet, firm meat.",
     "seasonality": "Aug - Dec",
     "availability": "Medium",
-    "image": "tigerShrimp.jpg",
+    "image": "https://github.com/munsif-solkar/fishr-data/blob/main/images/tiger-shrimp.jpg?raw=true",
     "price": "Market rates apply"
   }
 ]
